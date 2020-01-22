@@ -22,6 +22,8 @@ print(title.text)
 ##
 ##
 ##
+print(soup)
+
 
 #find all elements with the tag <table>
 all_tables = soup.findAll('table')
