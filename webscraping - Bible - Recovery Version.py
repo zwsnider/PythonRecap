@@ -33,7 +33,7 @@ message = book+chapter+":"+mychoice.text.lstrip()
 
 print(message)
 
-
+print("Hello")
 
 #text my choice to my phone!
 accountSID = 'ACd6351ff4800a312d3756d77307724047'
